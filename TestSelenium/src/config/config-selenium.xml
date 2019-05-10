@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config-selenium>
+	<server-url>localhost</server-url>
+	<server-port>8080</server-port>
+	 <application-url>https://www.tfaforms.com/281809/</application-url> 
+	<test-speed>400</test-speed>
+	 <browser-type>*firefox C:\Program Files (x86)\Mozilla Firefox\firefox.exe</browser-type>  
+	</config-selenium>
+	
